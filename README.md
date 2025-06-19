@@ -118,3 +118,104 @@ The **Contact** page provides a simple form for users to send feedback, question
 
 ---
 
+## Code Explanation for This Project
+
+### header.php
+
+The `header.php` file defines the reusable header section included on every page of the Nutrition Planner website.
+
+- It contains a semantic `<header>` element with the website title displayed inside an `<h1>` tag for clear branding.
+- Below the title, there is a navigation bar (`<nav>`) featuring links to key pages: Home, Plans, Recipes, Track, About, Contact, and Resources.
+- The navigation links are styled for easy readability and user-friendly navigation throughout the site.
+- This file is included at the top of each page using PHP `include` or `require` statements to maintain a consistent header design across the website.
+
+---
+
+### footer.php
+
+The `footer.php` file provides the common footer section displayed at the bottom of all pages.
+
+- It contains a `<footer>` tag with a copyright notice.
+- The footer design ensures uniformity and is easy to update for the entire site by modifying only this single file.
+- Like the header, it is included on every page using PHP includes to maintain consistency and avoid code duplication.
+
+---
+## Code Explanation for This Project
+
+### style.css
+
+The `style.css` file defines the visual appearance and layout of the Visual Health Dashboard website.
+
+- Sets a clean, readable font (Arial) and a soft background color for an inviting look and feel.
+- Styles the header with centered site title, ample padding, and white background for clarity.
+- Implements a horizontal flexbox navigation bar with vibrant blue links that underline on hover for user feedback.
+- Designs the hero section with generous padding and a light green background highlighting the introductory content.
+- Uses a flexible layout in the highlights section to organize feature cards responsively with neat spacing.
+- Styles cards with subtle shadows, borders, and rounded corners to create a polished, professional UI.
+- Footer styling is simple and consistent, visually separating it from the main content.
+- Overall focus on usability, clean design, and responsiveness across devices.
+
+---
+
+### index.php
+
+The `index.php` file serves as the homepage of the Visual Health Dashboard.
+
+- Includes reusable header and footer for consistent navigation and branding.
+- Features a hero section introducing the site’s purpose with a welcoming heading and brief description.
+- Provides a dropdown to select from three states (Florida, Texas, California) to view COVID-19 trends.
+- Displays an interactive bar chart showing recent monthly COVID-19 cases based on selected state.
+- Updates chart dynamically for engaging data exploration.
+- Designed to deliver a clean, intuitive overview of pandemic trends.
+
+---
+
+### plans.php
+
+The `plans.php` page displays meal plans for the Nutrition Planner website.
+
+- Utilizes shared header and footer for consistent site layout.
+- Presents meal plans in a responsive grid with cards describing goals like weight loss or muscle gain.
+- Each card details daily meals and nutritional information using headings and bullet points.
+- Employs CSS flexbox to arrange cards adaptively for various screen sizes.
+- Prioritizes clarity and easy scanning for users to find suitable meal plans.
+- Supports the site’s mission of personalized nutrition guidance.
+
+---
+
+### recipes.php
+
+The `recipes.php` page offers a selection of healthy recipes.
+
+- Incorporates the common header and footer components.
+- Displays recipes in individual cards with titles, descriptions, and key ingredients.
+- Uses a vertical layout with spaced cards for enhanced readability.
+- Cards styled with distinct backgrounds and borders to visually separate content.
+- Helps users discover quick, nutritious meals aligned with dietary goals.
+- Designed for easy browsing with clear typography and consistent formatting.
+  
+### contact.php
+
+The `contact.php` page provides a user-friendly contact form that allows visitors to send messages or inquiries directly through the website.
+
+- Utilizes shared header and footer includes to maintain a consistent look and navigation across the site.
+- Features a clear and inviting heading along with a brief message encouraging user interaction.
+- Includes a form with labeled input fields for Name, Email, and Message to collect user information effectively.
+- Implements required form validations ensuring users complete all necessary fields before submission.
+- Employs semantic HTML and structured CSS classes for accessible and maintainable layout.
+- The form's submit button is styled for clarity and usability.
+
+---
+
+### resources.php
+
+The `resources.php` page serves as a curated collection of trusted external health and nutrition resources, providing users with easy access to reputable information.
+
+- Incorporates common header and footer for uniform navigation and styling across pages.
+- Organized into categorized sections like General Health, Mental Health, and Nutrition & Wellness for easy browsing.
+- Lists authoritative links to organizations such as CDC, WHO, and USDA, opening in new tabs to keep users on the site.
+- Uses semantic HTML structure for improved accessibility and readability.
+- Designed with a clean, minimal layout that aligns with the overall site aesthetics.
+- Provides a helpful resource hub for users seeking further knowledge beyond the site content.
+
+
