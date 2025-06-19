@@ -2,28 +2,28 @@
 
 ## Project Overview
 
-The Nutrition Planner Website is a modern, responsive web application designed to support users in achieving their health and wellness goals through personalized meal planning, nutritious recipe discovery, and daily nutrition tracking. The platform provides a clean and intuitive interface that simplifies complex nutritional data and empowers users to make informed dietary choices.
+The Nutrition Planner Website is a clean, fully responsive front-end web application designed to help users plan meals, explore healthy recipes, and track their daily nutrition easily. The site focuses on delivering a user-friendly experience with intuitive navigation and clear, accessible content that supports healthier lifestyle choices.
 
-Key features include customizable meal plans targeting different health objectives such as weight loss or muscle gain, a rich collection of recipes with detailed macronutrient breakdowns, and a progress tracker that monitors calorie intake, hydration, and nutritional goals. The website emphasizes accessibility, user-friendly navigation, and seamless performance across all devices, ensuring a satisfying user experience.
+This project highlights a modular and semantic HTML structure combined with CSS for responsive layouts and styling. It emphasizes minimalist design principles, clear typography, and accessible UI elements, ensuring the site looks great and works well on all devices.
 
-Developed as a personal project to showcase skills in full-stack web development, this site integrates front-end and back-end technologies with a modular architecture that promotes maintainability and scalability. The design balances aesthetics and functionality, employing minimalist visuals and consistent UI patterns to engage users effectively.
+Developed as a personal portfolio piece, this project demonstrates skills in front-end web development, responsive design, and user-centric health content presentation, without backend integration or database connectivity.
 
 ---
 
 ## Tools and Technologies Used
 
-- **HTML5 & CSS3:** Utilized for semantic structure and responsive styling, ensuring the website adapts flawlessly to various screen sizes and devices while maintaining accessibility standards.
+- **HTML5:** Used to create the semantic and accessible structure of the website pages, ensuring content is clear and logically organized.
 
-- **PHP:** Employed for server-side scripting, enabling modular page construction with reusable components like headers, footers, and navigation bars. PHP also handles form submissions and dynamic content rendering efficiently.
+- **CSS3:** Utilized for styling and responsive design, enabling the website to adapt smoothly across various devices and screen sizes.
 
-- **JavaScript:** Incorporated to add interactive elements such as dynamic meal plan selections, real-time nutrition tracking, and enhanced user interface responsiveness without requiring full page reloads.
+- **JavaScript:** Included to enhance user interactivity, such as navigation highlighting, dynamic content filtering, or simple UI behaviors.
 
-- **XAMPP:** Used as a local development environment providing Apache, MySQL, and PHP support for testing and running the application locally before deployment.
+- **Visual Studio Code:** The primary code editor used for writing and managing the front-end codebase with features like code completion and debugging.
 
-- **Visual Studio Code:** Served as the primary code editor, benefiting from advanced features including syntax highlighting, code completion, integrated debugging, and version control integration to streamline development workflows.
+- **Browser Developer Tools:** Used for real-time debugging, layout inspection, and performance testing to ensure cross-browser compatibility and responsive behavior.
 
-- **Browser Developer Tools:** Chrome DevTools and similar tools were leveraged for live CSS editing, JavaScript debugging, network monitoring, and performance profiling to optimize the user experience and cross-browser compatibility.
+- **Google Fonts & Font Awesome:** Integrated to improve visual appeal with modern typography and scalable icons.
 
-- **Font Awesome & Google Fonts:** Integrated to enhance the visual appeal and readability of the site with scalable icons and modern typography.
+This front-end project showcases an ability to create accessible, visually appealing, and responsive websites designed to improve user engagement and promote wellness through thoughtful design.
 
 
