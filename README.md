@@ -218,4 +218,33 @@ The `resources.php` page serves as a curated collection of trusted external heal
 - Designed with a clean, minimal layout that aligns with the overall site aesthetics.
 - Provides a helpful resource hub for users seeking further knowledge beyond the site content.
 
+### about.php
+
+The `about.php` page provides visitors with an overview of the Nutrition Planner project, its goals, tools used, and creator information.
+
+- Maintains consistent site navigation and design by including the shared header and footer.
+- Displays a concise project description explaining the purpose and motivation behind the Nutrition Planner website.
+- Clearly outlines the project goal to create a user-friendly, informative platform promoting healthier lifestyles.
+- Lists the tools and skills utilized such as HTML, CSS, PHP for modular structure, responsive design principles, and clean UI/UX layouts.
+- Highlights the creator's passion and role in developing the project, adding a personal touch.
+- Uses semantic headings and paragraphs for readability and accessibility.
+- Designed to inform users about the project’s background and development process.
+
+---
+
+## Project Overview
+
+The Nutrition Planner is a responsive web application designed to help users plan meals, discover healthy recipes, and track their nutrition progress in one convenient platform. This project aims to promote healthy living through easy access to balanced meal ideas, nutrition information, and habit tracking. It features modular PHP structure for code reuse, clean and responsive layouts, and a simple, intuitive user experience suitable for a wide audience.
+
+---
+
+## Credits
+
+This project was designed and developed by Nithin Merugu, a passionate web designer dedicated to creating health-focused digital experiences. The project leverages HTML, CSS, PHP, and responsive design techniques to deliver a modern and user-friendly interface.
+
+---
+
+## Thank You
+
+Thank you for taking the time to explore the Nutrition Planner project. Your interest and feedback are greatly appreciated. Feel free to reach out via the contact page for any questions, suggestions, or collaborations.
 
